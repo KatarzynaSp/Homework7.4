@@ -1,4 +1,4 @@
-public class evenNumbers {
+public class EvenNumbers {
     public static void main(String[] args) {
 
         int sum = 0;
